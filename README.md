@@ -33,4 +33,4 @@ Voici les captures d'écran montrant la page de connexion et le tableau de bord 
 
 1. Clone le dépôt avec la commande suivante :
    ```bash
-   ghttps://github.com/Zakaria-Fettah/STOCKER.git
+   git clone https://github.com/Zakaria-Fettah/STOCKER.git
