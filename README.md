@@ -24,10 +24,10 @@ Ce projet est un système complet de gestion de stock conçu pour gérer divers 
 Voici les captures d'écran montrant la page de connexion et le tableau de bord :
 
 ### Page de Connexion
-![Page de Connexion](public/build/img/login.png)
+![Page de Connexion](public/login.png)
 
 ### Tableau de Bord
-![Tableau de Bord](public/build/img/dashboard.jpg)
+![Tableau de Bord](public/dashboard.jpg)
 
 ## Installation
 
